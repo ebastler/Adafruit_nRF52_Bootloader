@@ -61,6 +61,7 @@ jobs:
           # - 'xiao_nrf52840_ble'
           # - 'xiao_nrf52840_ble_sense'
           - 'altar-i-us'
+          - 'altar-i-uk'
           - 'wlpad'
           - 'osprey_rev_a'
           - 'isometria75_rev2'
