@@ -31,7 +31,7 @@
 /* LED
  *------------------------------------------------------------------*/
 #define LEDS_NUMBER         1
-#define LED_PRIMARY_PIN     _PINNUM(1, 19) // white caps lock LED double-used as bootloader LED
+#define LED_PRIMARY_PIN     _PINNUM(0, 19) // white caps lock LED double-used as bootloader LED
 #define LED_STATE_ON        1
 
 /*------------------------------------------------------------------*/
