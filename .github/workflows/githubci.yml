@@ -67,6 +67,7 @@ jobs:
           - 'osprey'
           - 'isometria75_rev2'
           - 'cornholius'
+          - 'nrfmodule'
                     
     steps:
     - name: Setup Python
