@@ -25,6 +25,7 @@
 #ifndef _ALTAR_II_A_H
 #define _ALTAR_II_A_H
 
+#define _PINNUM(port, pin)    ((port)*32 + (pin))
 
 /*------------------------------------------------------------------*/
 /* LED
